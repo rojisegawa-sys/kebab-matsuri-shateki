@@ -1938,11 +1938,7 @@ body {
   }
 
   body[data-screen="game"] .audio-toggle {
-    left: 8px;
-    bottom: 8px;
-    min-height: 32px;
-    padding: 0 8px;
-    font-size: 0.72rem;
+    display: none;
   }
 
   body[data-screen="game"] .target {
